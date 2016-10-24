@@ -4,7 +4,7 @@ A Leiningen template for creating command line applications.
 
 ## Usage
 
-- lein new cmdline <projectname>
+$ lein new cmdline projectname
 
 ## License
 
