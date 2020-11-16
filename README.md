@@ -1,5 +1,7 @@
 # cmdline-template
 
+[![Clojars Project](https://img.shields.io/clojars/v/cmdline/lein-template.svg)](https://clojars.org/cmdline/lein-template)
+
 A Leiningen template for creating command line applications.
 
 ## Usage
